@@ -1,0 +1,12 @@
+{
+  "connectionString": null,
+  "databaseServer": "127.0.0.1,1433",
+  "databaseName": "BWP401S24",
+  "databaseUsername": "sa",
+  "databasePassword": "zaecJgIZOpI/TSIlVqvkOw==",
+  "serverUrl": "http://localhost/API/",
+  "clientUrl": "http://localhost/API/WebStore",
+  "imageDirectory": "Upload\\Image",
+  "adminUsername": "admin",
+  "adminPassword": "$KODBYMOHAMMAD$10000$gSXf9sWLEcRTVj0ImlRqRsUgnQC2uSJ/lvStR+UmMpAFNeWiaZ/ckvRocTcc37xBCwS91cRjmBA="
+}
